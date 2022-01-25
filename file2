@@ -1,0 +1,1 @@
+data_b = print("This is the data from file1")
